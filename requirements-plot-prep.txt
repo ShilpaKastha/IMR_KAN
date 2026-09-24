@@ -1,0 +1,17 @@
+# Dependencies for plot_prep.ipynb
+# Reference environment: Python 3.13.9.
+# Main package versions are pinned for reproducibility.
+# This pins the main packages, not every transitive dependency.
+# See README.md for setup, required files, and notebook caveats.
+# Install: python -m pip install -r requirements-plot-prep.txt
+
+numpy==2.3.5
+scipy==1.16.3
+matplotlib==3.11.1
+pandas==3.0.6
+sxs==2026.0.2
+pycbc==2.11.0
+lalsuite==7.26.15
+h5py==3.16.0
+ipykernel==7.3.0
+jupyterlab==4.6.3

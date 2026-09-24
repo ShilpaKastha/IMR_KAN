@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.plotenv/
+
+# macOS / editor files
+.DS_Store
+*.swp
+*.swo
+
+# Downloaded waveform-evolution data and caches
+**/waveform_data/
+**/sxs_cache/
+**/sxs_config/
+**/NRSur7dq4_v1.0.h5
+
+# Generated analysis products
+figures/
+*.log
