@@ -85,7 +85,7 @@ The plotting utilities download SXS and NRSur resources when required. These fil
 
 ## SXS split record
 
-`BBH_ID.text` records the exact IDs reconstructed from the frozen split in the latest full analysis archive. It contains
+`BBH_ID.text` records the exact IDs reconstructed from the frozen split used in the accompanying paper, *Learning Inspiral–Merger–Ringdown Waveforms from a Post-Newtonian Baseline*, by **Arghya Chattopadhyay** and **Shilpa Kastha**. It contains
 
 - 280 training systems
 - 75 validation systems
