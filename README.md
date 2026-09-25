@@ -110,7 +110,13 @@ If this repository or the methodology is useful in your work, please cite the ac
 
 ```bibtex
 @article{ChattopadhyayKastha,
-soon to be updated
+title={Learning Inspiral-Merger-Ringdown Waveforms from a Post-Newtonian Baseline}, 
+      author={Arghya Chattopadhyay and Shilpa Kastha},
+      year={2026},
+      eprint={2609.29115},
+      archivePrefix={arXiv},
+      primaryClass={gr-qc},
+      url={https://arxiv.org/abs/2609.29115}, 
 }
 ```
 
