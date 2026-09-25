@@ -1,4 +1,10 @@
-# Physics-factored KAN gravitational waveforms
+# Learning Inspiral–Merger–Ringdown Waveforms from a Post-Newtonian Baseline
+
+**Arghya Chattopadhyay<sup>1</sup>, Shilpa Kastha<sup>2,3</sup>**
+
+<sup>1</sup> Physics Department, University of Puerto Rico Mayagüez, Puerto Rico 00681, USA  
+<sup>2</sup> Saha Institute of Nuclear Physics, 1/AF Bidhannagar, Kolkata 700064, India  
+<sup>3</sup> Homi Bhabha National Institute, Training School Complex, Anushaktinagar, Mumbai 400094, India
 
 This repository provides the exported waveform model and the lightweight analysis code used to reproduce the waveform comparisons and plotting workflow for the SXS-based KAN study.
 
