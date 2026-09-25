@@ -6,6 +6,14 @@
 <sup>2</sup> Saha Institute of Nuclear Physics, 1/AF Bidhannagar, Kolkata 700064, India  
 <sup>3</sup> Homi Bhabha National Institute, Training School Complex, Anushaktinagar, Mumbai 400094, India
 
+![SXS and KAN waveform comparison](SXS_BBH_0304_waveforms.png)
+
+*Time-domain comparison of SXS and KAN for SXS:BBH:0304,
+an equal-mass binary with dimensionless spins χ₁z ≈ +0.5 and
+χ₂z ≈ −0.5, scaled to a total mass of 50 M☉ and a luminosity
+distance of 400 Mpc.*
+
+## Introduction
 This repository provides the exported waveform model and the lightweight analysis code used to reproduce the waveform comparisons and plotting workflow for the SXS-based KAN study.
 
 The model keeps analytically controlled inspiral structure explicit. The Newtonian frequency-domain amplitude and aligned-spin 3.5PN TaylorF2 phase form the baseline, while a compact Kolmogorov–Arnold network supplies the logarithmic-amplitude and intrinsic phase corrections learned from SXS numerical-relativity waveforms. After export, waveform evaluation is pure NumPy and does not require Torch or the training notebooks.
